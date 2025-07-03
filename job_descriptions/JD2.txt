@@ -1,0 +1,13 @@
+We are hiring a Software Engineer to build scalable backend systems.
+
+Responsibilities:
+- Design, develop, and maintain backend APIs
+- Work with RESTful services and databases (MySQL/PostgreSQL)
+- Use Git for version control and collaborate via GitHub
+- Write clean, maintainable code in Python or Java
+
+Requirements:
+- Strong foundation in data structures and algorithms
+- 1+ years of experience with Python or Java
+- Familiar with Docker and CI/CD pipelines
+- Bachelor's degree in Computer Science or related field
