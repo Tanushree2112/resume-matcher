@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.log
+venv/
+resumes/
+job_descriptions/
+.ipynb_checkpoints/
+.streamlit/
+.DS_Store
+Thumbs.db
+.env
+eval_set/
