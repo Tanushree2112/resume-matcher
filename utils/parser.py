@@ -1,3 +1,5 @@
+# Parse Resume Text from PDFs
+
 import pdfplumber
 
 def extract_text_from_pdf(pdf_path):
