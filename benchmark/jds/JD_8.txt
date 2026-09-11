@@ -1,0 +1,9 @@
+Job Title: NLP Engineer
+
+We are looking for a candidate with experience in:
+FAISS, BERT, NLP, Python, RAG, PyTorch
+
+Responsibilities:
+- Analyze data and generate actionable insights.
+- Build analytical solutions and reports.
+- Work with cross-functional stakeholders.

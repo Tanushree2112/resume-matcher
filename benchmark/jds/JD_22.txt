@@ -1,0 +1,9 @@
+Job Title: Data Scientist
+
+We are looking for a candidate with experience in:
+SQL, Pandas, Data Visualization, Scikit-learn, Feature Engineering, Python
+
+Responsibilities:
+- Analyze data and generate actionable insights.
+- Build analytical solutions and reports.
+- Work with cross-functional stakeholders.

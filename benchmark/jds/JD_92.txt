@@ -1,0 +1,9 @@
+Job Title: NLP Engineer
+
+We are looking for a candidate with experience in:
+Transformers, LangChain, FAISS, BERT, Python, Hugging Face
+
+Responsibilities:
+- Analyze data and generate actionable insights.
+- Build analytical solutions and reports.
+- Work with cross-functional stakeholders.

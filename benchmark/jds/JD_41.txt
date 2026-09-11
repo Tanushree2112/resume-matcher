@@ -1,0 +1,9 @@
+Job Title: Business Analyst
+
+We are looking for a candidate with experience in:
+SQL, Forecasting, Statistics, Tableau, A/B Testing, Stakeholder Management
+
+Responsibilities:
+- Analyze data and generate actionable insights.
+- Build analytical solutions and reports.
+- Work with cross-functional stakeholders.

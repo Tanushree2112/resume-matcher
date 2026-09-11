@@ -1,0 +1,9 @@
+Job Title: Data Analyst
+
+We are looking for a candidate with experience in:
+NumPy, ETL, Statistics, Tableau, Excel, Data Visualization
+
+Responsibilities:
+- Analyze data and generate actionable insights.
+- Build analytical solutions and reports.
+- Work with cross-functional stakeholders.

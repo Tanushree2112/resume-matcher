@@ -1,0 +1,9 @@
+Job Title: NLP Engineer
+
+We are looking for a candidate with experience in:
+Hugging Face, PyTorch, Transformers, Python, BERT, LLMs
+
+Responsibilities:
+- Analyze data and generate actionable insights.
+- Build analytical solutions and reports.
+- Work with cross-functional stakeholders.

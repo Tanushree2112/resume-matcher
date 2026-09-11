@@ -1,0 +1,9 @@
+Job Title: Data Analyst
+
+We are looking for a candidate with experience in:
+SQL, Power BI, Python, ETL, Data Visualization, NumPy
+
+Responsibilities:
+- Analyze data and generate actionable insights.
+- Build analytical solutions and reports.
+- Work with cross-functional stakeholders.
